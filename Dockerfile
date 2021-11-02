@@ -1,5 +1,5 @@
 FROM scratch
-EXPOSE 80
+EXPOSE 8001
 
 COPY http-server /
 
